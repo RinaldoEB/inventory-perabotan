@@ -9,6 +9,7 @@ Aplikasi web untuk mengelola data inventory perabotan menggunakan Laravel.
 - MySQL
 - Vite
 - Node.js
+- Tailwind CSS
 
 ## Requirements
 
